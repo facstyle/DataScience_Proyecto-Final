@@ -11,6 +11,7 @@ Evaluar el desempeño del modelo utilizando métricas de validación como la pre
 Generar conclusiones respecto a la utilidad del modelo y las limitaciones encontradas, con vistas a futuras mejoras.
 
 Conclusiones
+
 El análisis realizado permitió aplicar un flujo de trabajo típico de Machine Learning sobre un dataset financiero, abordando desde la reducción de
 dimensionalidad hasta la evaluación del desempeño de un modelo predictivo.
 En primer lugar, la selección de características (feature selection) resultó fundamental para reducir la complejidad del dataset y enfocar el modelo 
